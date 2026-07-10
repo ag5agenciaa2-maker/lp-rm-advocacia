@@ -1,0 +1,20 @@
+# RM Advocacia
+
+> Escritório de advocacia em Campo Grande com mais de 20 anos de experiência. Direito Penal, INSS, Civil, Família e Consumidor. Plantão emergencial 24h. Atendimento online em todo o Brasil.
+
+- Endereço: Rua Coronel Agostinho, 76, Sala 1002, Rio de Janeiro, RJ
+- Telefone/WhatsApp: ['+5521969747399', '+552120425736']
+- Site: https://rmadvocacia.ag5agencia.site/
+
+## Serviços
+- Direito Penal
+- INSS e Previdenciário
+- Mandados de Segurança
+- Direito Civil
+- Direito de Família
+- Direito do Consumidor
+
+## Páginas
+- [Página inicial](https://rmadvocacia.ag5agencia.site/)
+
+Atualizado em 2026-07-02. Site desenvolvido por AG5 Agência (ag5agencia.com.br).
